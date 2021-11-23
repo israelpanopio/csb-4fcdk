@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://israelpanopio.github.io/csb-4fcdk/static/js/main.bd932257.chunk.js",
+    "main.js.map": "https://israelpanopio.github.io/csb-4fcdk/static/js/main.bd932257.chunk.js.map",
+    "runtime-main.js": "https://israelpanopio.github.io/csb-4fcdk/static/js/runtime-main.f2f5aa52.js",
+    "runtime-main.js.map": "https://israelpanopio.github.io/csb-4fcdk/static/js/runtime-main.f2f5aa52.js.map",
+    "static/js/2.5783afce.chunk.js": "https://israelpanopio.github.io/csb-4fcdk/static/js/2.5783afce.chunk.js",
+    "static/js/2.5783afce.chunk.js.map": "https://israelpanopio.github.io/csb-4fcdk/static/js/2.5783afce.chunk.js.map",
+    "index.html": "https://israelpanopio.github.io/csb-4fcdk/index.html",
+    "precache-manifest.e4b4b7b0dca62cc2a82e4c44b0d15af6.js": "https://israelpanopio.github.io/csb-4fcdk/precache-manifest.e4b4b7b0dca62cc2a82e4c44b0d15af6.js",
+    "service-worker.js": "https://israelpanopio.github.io/csb-4fcdk/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2f5aa52.js",
+    "static/js/2.5783afce.chunk.js",
+    "static/js/main.bd932257.chunk.js"
+  ]
+}
